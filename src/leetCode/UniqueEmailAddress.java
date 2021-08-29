@@ -1,3 +1,4 @@
+package leetCode;
 class Solution {
     public int numUniqueEmails(String[] emails) {
        HashSet<String> uniqueEmailsSet = new HashSet<>();
